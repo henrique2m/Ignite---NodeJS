@@ -41,6 +41,7 @@
 			"no-useless-constructor": "off",
 			"no-empty-function": "off",
 			"lines-between-class-members": "off",
+      "array-callback-return":"off",
 			"import/extensions": [
 			  "error",
 			  "ignorePackages",
